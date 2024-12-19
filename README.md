@@ -1,0 +1,1 @@
+In this project I used multiple sources, such as help from the TA's, worked with classmate Yolanda Williams, used chat gpt and xpert learn to debug the code and to figure out how to do things and why, as well as youtube vdeos which will be linked below. Leaflet legend: https://www.youtube.com/watch?v=dq3uv47bC40
